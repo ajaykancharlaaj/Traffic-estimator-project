@@ -17,13 +17,14 @@
 ## 📁 Project Structure
 
 ```bash
-roadpulse/
+Traffic-volume-estimator/
 ├── app.py                  # Flask web app
 ├── model.pkl               # Trained ML model
 ├── templates/
 │   └── index.html          # HTML UI
-├── static/                 # CSS or JS (if any)
+│   └── output.html 
 ├── notebook/
-│   └── traffic_model.ipynb # Jupyter Notebook for training
+│   └── notebook/traffic volume estimation1 \-checkpoint.ipynb # Jupyter Notebook for training
+│   └── notebook/notebook/traffic volume estimation1 .ipynb
 ├── requirements.txt        # List of dependencies
 └── README.md               # Project documentation
